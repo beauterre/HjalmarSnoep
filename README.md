@@ -1,5 +1,5 @@
 - 🐝 Hi, I be @HjalmarSnoep
-- 👀 I’m interested in frontend, backend, ai, robotica, animation, music, optical illusions and philosophy 
+- 👀 I’m interested in frontend, backend, gamedevelopment, ai, robotica, animation, music, optical illusions and philosophy 
 - ☎ www.snoep.at 
 
 <!---
