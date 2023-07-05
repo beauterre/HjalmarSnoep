@@ -1,5 +1,5 @@
-- 🐝 Hi, I be @JehaSnoep
-- 👀 I’m interested in frontend, backend, gamedevelopment, ai, robotica, animation, music, optical illusions and philosophy 
+- 🐝 Hi, I be @RobVeter
+- 👀 I’m interested in frontend, backend, gamedevelopment, ai 
 - ☎ www.snoep.at 
 
 <!---
