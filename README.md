@@ -1,6 +1,6 @@
-- 🐝 Hi, I be @RobVeter
-- 👀 I’m interested in frontend, backend, gamedevelopment, ai 
-- ☎ www.snoep.at 
+- 🐝 Hi, I am @Belle
+- 👀 I’m interested in frontend, backend, media, gamedevelopment, ai 
+- ☎ www.snoep.at/team/beauterre 
 
 <!---
  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
